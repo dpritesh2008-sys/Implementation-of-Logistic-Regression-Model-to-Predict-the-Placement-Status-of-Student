@@ -1,8 +1,4 @@
 # Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
-~~~
-## Name : Ritesh DP
-## Reg. No. : 212225040339
-~~~
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 
@@ -20,8 +16,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Mohamed Abdullah A
-Register Number: 212224020029
+Developed by: Ritesh DP
+Register Number: 212225040339
 ```
 ```python
 import pandas as pd
